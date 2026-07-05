@@ -4,6 +4,8 @@
   "description": "Ops-first multi-agent runtime with tool calling, vision input, routing, approvals, and bounded execution loops.",
   "type": "module",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": "./dist/index.js",
   "bin": {
     "cherryteam": "dist/cli.js"
   },
@@ -33,8 +35,8 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^24.0.0",
-    "tsx": "^4.20.0",
-    "typescript": "^5.8.3"
+    "@types/node": "24.13.2",
+    "tsx": "4.23.0",
+    "typescript": "5.9.3"
   }
 }
