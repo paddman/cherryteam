@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Cherry Agent Team operating ladder</title>
+  <desc id="desc">Five layers from Admin at the foundation to Leadership at the top.</desc>
+  <rect width="900" height="1100" fill="#080808"/>
+  <g stroke="#f6f7fb" stroke-width="20" stroke-linecap="round" fill="none">
+    <path d="M180 1010 L300 90"/>
+    <path d="M720 1010 L600 90"/>
+    <path d="M286 190 H614"/>
+    <path d="M260 390 H640"/>
+    <path d="M234 590 H666"/>
+    <path d="M208 790 H692"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-weight="800">
+    <text x="450" y="155" font-size="54" fill="#ecd49a">LEADERSHIP</text>
+    <text x="450" y="350" font-size="74" fill="#ffffff">SALES</text>
+    <text x="450" y="550" font-size="64" fill="#ffffff">MARKETING</text>
+    <text x="450" y="750" font-size="68" fill="#ffffff">DELIVERY</text>
+    <text x="450" y="970" font-size="78" fill="#ffffff">ADMIN</text>
+  </g>
+</svg>
